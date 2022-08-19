@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I’m Shradha. I’m currently a Graduate student at University of Michigan, Automotive Engineering, Ann Arbor. I graduated from BITS Pilani, Goa, India with dual majors in Computer Science and Mathematics in 2020.
+Hey, I’m Shradha. I’m currently a Graduate student at University of Michigan, Automotive Engineering, Ann Arbor. I graduated from Maharashtra Institute of Technology in Electronics and Telecommunications in 2018.
 
 My current research interests revolve around the theory of deep neural networks. While deep learning is used ubiquitously, we seldom fully understand why it works so well. During my graduate studies, I intend to work towards demystifying the role of neural networks in many of their applications.
 
